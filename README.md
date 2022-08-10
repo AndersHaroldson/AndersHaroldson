@@ -6,7 +6,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=AndersHaroldson&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-<a href="https://haroldsonanders.netlify.app" target="_blank"rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Portfolio%20Website-555?style=for-the-badge"/> </a>
+<a href="https://haroldsonanders.netlify.app" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Portfolio%20Website-555?style=for-the-badge"/> </a>
 </p>
 
 <h1 align="center"> 
@@ -52,6 +52,6 @@ Hi, I'm Anders
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersHaroldson&theme=tokyonight"/>
 
 <h3> Credits to
-<a href="https://github.com/itsZed0" target="_blank"rel="noreferrer noopener"> itsZed0 </a>
+<a href="https://github.com/itsZed0" target="_blank" rel="noreferrer noopener"> itsZed0 </a>
 for the README inspiration!
 </h3>
