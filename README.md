@@ -1,6 +1,7 @@
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/57378494?s=400&u=b98b6fad2a00fd350372714428faca58e7cb5577&v=4" width="200" height="200"/>
+<img src='https://avataaars.io/?avatarStyle=Transparent&topType=ShortHairShortWaved&accessoriesType=Blank&hairColor=BrownDark&facialHairType=Blank&clotheType=Hoodie&clotheColor=Gray02&eyeType=Default&eyebrowType=Default&mouthType=Smile&skinColor=Light'
+/>
 </p>
 
 <p align="center">
