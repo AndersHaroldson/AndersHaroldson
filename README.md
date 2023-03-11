@@ -47,7 +47,7 @@ Hi, I'm Anders
 </p>
 
 # Some of My Stats
-[![Anurag's GitHub stats](https://github-readme-stats-5rrt2apfs-andersharoldson.vercel.app/api?username=AndersHaroldson&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-andersharoldson.vercel.app/api?username=AndersHaroldson&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-stats-andersharoldson.vercel.app/api/top-langs/?username=AndersHaroldson&theme=tokyonight"/>
 
