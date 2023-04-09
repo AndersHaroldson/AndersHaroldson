@@ -17,7 +17,6 @@ Hi, I'm Anders
 
 # About Me
 * :man_student: I'm a high school student who programs for fun
-* :computer: Just recently began my journey in Codeforces and USACO
 * :man_technologist: Working towards becoming a full stack developer
 
 ## :hammer_and_wrench: Languages, Tools, & Programs :hammer_and_wrench:
