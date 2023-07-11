@@ -6,7 +6,6 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=AndersHaroldson&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-<a href="https://haroldsonanders.netlify.app" target="_blank" rel="noreferrer noopener"> <img src="https://img.shields.io/badge/Portfolio%20Website-555?style=for-the-badge"/> </a>
 </p>
 
 <h1 align="center"> 
