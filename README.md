@@ -16,7 +16,7 @@ Hi, I'm Anders
 
 # About Me
 * :man_student: I'm a high school student who programs for fun
-* :man_technologist: Working towards becoming a full stack developer
+* :man_technologist: Working towards building my skill set in the world of software and technology
 
 ## :hammer_and_wrench: Languages, Tools, & Programs :hammer_and_wrench:
 
