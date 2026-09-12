@@ -1,48 +1,58 @@
+# Hi there! 👋 I'm Anders Haroldson
 
-<p align="center">
-<img src='https://avataaars.io/?avatarStyle=Transparent&topType=ShortHairShortWaved&accessoriesType=Blank&hairColor=BrownDark&facialHairType=Blank&clotheType=Hoodie&clotheColor=Gray02&eyeType=Default&eyebrowType=Default&mouthType=Smile&skinColor=Light'/>
-</p>
+I'm a **Computer Science** student at **Northeastern University** with a **Systems** concentration. My goal has always been to understand computers at a fundamental level, and I believe that knowledge lets you build things that genuinely make a difference in our world. 
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=AndersHaroldson&style=for-the-badge"/>
-</p>
+---
 
-<h1 align="center"> 
-:wave:
-Hi, I'm Anders
-</h1>
+## 🛠️ Technologies & Tools
 
+[![My Skills](https://skillicons.dev/icons?i=python,java,cpp,js,html,css,mysql,git,tensorflow,pytorch,opencv,qt,nodejs,react,linux,bash,raspberrypi&perline=9)](https://skillicons.dev)
 
-# About Me
-* :man_student: I'm a high school student who programs for fun
-* :man_technologist: Working towards building my skill set in the world of software and technology
+---
 
-## :hammer_and_wrench: Languages, Tools, & Programs :hammer_and_wrench:
+## 🔭 Interests
 
-<p>
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Shell_Script-333?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-</p>
+- 🧠 **Machine Learning & Computer Vision:** Training and deploying models that run in real time on constrained hardware.
+- ⚙️ **Systems & Embedded:** Low-level performance work and hardware integration.
+- 🤖 **Automation:** Building agents and workflows that eliminate repetitive manual processes.
 
+---
 
+## 💼 Experience
 
+**Bell Bank** | *Enterprise Data & Reporting Intern* | Bloomington, MN *(May 2026 – Aug 2026)*
 
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-<img src="https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
-</p>
+- Deployed an **AI agent** in **Microsoft Copilot Studio** that auto-generates report documentation from **IBM Cognos** metadata, cutting writing time by an estimated **60–70%**.
+- Built a multi-step pipeline using **Excel Office Scripts (TypeScript)** to export metadata as JSON, an **LLM** step for plain-English calculation descriptions, and **Word** template generation.
+- Shipped a **Power Automate** workflow processing **400+ town-hall submissions**, parsing names and titles and dynamically resizing attached images — replacing a **20-hour** manual process.
 
-# Some of My Stats
-[![Anurag's GitHub stats](https://github-readme-stats-mu-pied-10.vercel.app/api?username=AndersHaroldson&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+**Northeastern University & University of Alaska Fairbanks** | *Undergraduate Researcher* | Remote *(Nov 2025 – Feb 2026)*
 
-<img src="https://github-readme-stats-mu-pied-10.vercel.app/api/top-langs/?username=AndersHaroldson&theme=tokyonight"/>
+- Built a **signal processing pipeline** extracting ML features from waveform data at **6.5M samples/second** with **sub-150ms latency** across 57 seismic event windows.
+- Cut peak memory usage by **90%** (to **817 MB**) with a generator-based architecture, enabling multi-hour recordings to be processed on consumer hardware.
 
+---
+
+## 📝 Notable Projects
+
+- **Thermal Deer Detection Driving Aid:** Real-time detection system on a **Raspberry Pi 4** ingesting a 256×192 thermal feed via **OpenCV**, classifying deer heat signatures with a fine-tuned **YOLO26** model and triggering audio + on-screen driver alerts. Full vehicle integration with 12V-to-5V power conversion, a 3.5" touchscreen, and USB audio routing.
+- **AI/ML Exoplanet Detection System:** **CNN** built in **Python** and **TensorFlow**, trained on **NASA Kepler** transit photometry data, using **SMOTE** augmentation to resolve class imbalance and overfitting.
+- **Flow++ Text Editor:** Multi-language code editor in **C++** with the **Qt** framework — syntax highlighting, code execution, tabbed multi-file editing, and an integrated file tree for Python, Java, C/C++, and JavaScript.
+
+---
+
+## 🎓 Also At Northeastern
+
+- Board Member & Photographer, **NU Entrepreneurs Club** (2000+ members, largest club on campus)
+- Dean's List ×2 | GPA 4.0/4.0
+
+---
+
+## 🚀 Let's Connect!
+
+- **LinkedIn:** [linkedin.com/in/anders-haroldson](https://linkedin.com/in/anders-haroldson/)
+- **Email:** [haroldson.a@northeastern.edu](mailto:haroldson.a@northeastern.edu)
+
+---
+
+Outside of code: skiing (15+ years), guitar (9+ years), photography, sim racing, and car enthusiast. 🎿 🎸 📷 🏎️
