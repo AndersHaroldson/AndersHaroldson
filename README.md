@@ -44,6 +44,7 @@ I'm a **Computer Science** student at **Northeastern University** with a **Syste
 ## 🎓 Also At Northeastern
 
 - Board Member & Photographer, **NU Entrepreneurs Club** (2000+ members, largest club @ NU)
+- Software Team Member at Northeastern Satellite Labratory
 - Dean's List ×2 | GPA 4.0/4.0
 
 ---
